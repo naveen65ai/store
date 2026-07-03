@@ -19,7 +19,7 @@ export default async function ProductDetails({
             src={product.image}
             alt={product.title}
             width={400}
-            height={400}
+            height={500}
             className="object-contain h-100"
           />
         </div>
