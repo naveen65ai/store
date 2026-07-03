@@ -18,7 +18,7 @@ export default async function ProductDetails({
           <Image
             src={product.image}
             alt={product.title}
-            width={500}
+            width={400}
             height={400}
             className="object-contain h-100"
           />
